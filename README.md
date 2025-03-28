@@ -2,8 +2,8 @@
 Assigned project for ***CSM 1222 Object Oriented Programming*** by **[Dr. Md. Rakib Hossain](https://www.researchgate.net/profile/Md-Hassan-70)**
 
 **Functionalities**
-1. A start page to initiate everything.
-2. A tool page for options ["Transcription", "Translation"].
+1. A *Start* page to initiate everything.
+2. A *Tool* page for options ["Transcription", "Translation"].
 3. *Transcription Tool* having a input field for dna sequence, a *transcripe* button and a *clear* button and a ***Randomizer*** feature which takes *strand length* as a parameter and generates dna sequence. the *transcripe* button does not take input if the sequence has other characters than *{A, T, G, C}*. If user gives characters other than these a caution will appear.
 4. *Transcription Output* shows the desired output for the dna sequence along with a *Trancription Tip* button.
 5. *Transcription Tip* provides the informations about ***DNA Transcription*** process.
