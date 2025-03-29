@@ -1,6 +1,8 @@
 # Central-Dogma 🖥️🧬
 Assigned project for ***CSM 1222 Object Oriented Programming*** by **[Dr. Md. Rakib Hossain](https://www.researchgate.net/profile/Md-Hassan-70)**
 
+![Image](https://github.com/user-attachments/assets/20d37c6c-6b31-4964-8fb9-7b943b67ed3c)
+
 **Functionalities**
 1. A *Start* page to initiate everything.
 2. A *Tool* page for options ["Transcription", "Translation"].
