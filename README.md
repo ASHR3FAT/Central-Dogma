@@ -12,5 +12,5 @@ Assigned project for ***CSM 1222 Object Oriented Programming*** by **[Dr. Md. Ra
 
   Moreover, this project gives a general solution for ***Central Dogma of Life***
 
-  Developed by: [Mohammad Ashraful Alam](https://www.linkedin.com/in/mohammad-ashraful-alam0504/), 2025
+  Developed by: ©[Mohammad Ashraful Alam](https://www.linkedin.com/in/mohammad-ashraful-alam0504/), 2025
   >this.life = null;
